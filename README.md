@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Fourier Analysis to Find Turbulence in TMC-1 Filament
 
