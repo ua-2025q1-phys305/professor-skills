@@ -1,0 +1,20 @@
+[project]
+name = "sinister_skeleton"
+version = "0.1.0"
+description = "Fourier analysis of turbulence in the TMC-1 filament using HCN emission maps"
+author = [
+    {name = "Anna Brandigi", email = "abrandigi@arizona.edu"}
+]
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.8"
+
+[project.dependencies]
+numpy = "^1.22"
+matplotlib = "^3.5"
+astropy = "^5.0"
+scipy = "^1.8"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
