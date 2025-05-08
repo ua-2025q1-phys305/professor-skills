@@ -1,7 +1,7 @@
 [project]
 name = "sinister_skeleton"
 version = "0.1.0"
-description = "Fourier analysis of turbulence in the TMC-1 filament using HCN emission maps"
+description = "Fourier analysis of TMC-1 filament using HCN J=1->0 emission maps"
 author = [
     {name = "Anna Brandigi", email = "abrandigi@arizona.edu"}
 ]
